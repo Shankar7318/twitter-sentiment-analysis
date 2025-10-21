@@ -59,7 +59,7 @@ Add your deployed app link here: `[Deployed App URL](#)`
 ### Step-by-step
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/sentiment-analysis-app.git
+https://github.com/Shankar7318/twitter-sentiment-analysis.git
 cd sentiment-analysis-app
 
 # (Recommended) Create virtual environment
